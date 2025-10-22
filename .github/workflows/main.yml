@@ -33,5 +33,5 @@ jobs:
         run: npm run server &
 
       - name: Executar os testes
-        run: npx cypress runt
+        run: npx cypress run
   
